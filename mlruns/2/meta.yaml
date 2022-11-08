@@ -1,0 +1,4 @@
+artifact_location: file:///home/sarath/mle_foundations/mlflow-walkthrough/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: Project

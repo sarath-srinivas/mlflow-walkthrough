@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarath/mle_foundations/mlflow-walkthrough/mlruns/2/bf101838fdfd4e148c582ba3e1292cbb/artifacts
+end_time: 1667908349924
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: bf101838fdfd4e148c582ba3e1292cbb
+run_uuid: bf101838fdfd4e148c582ba3e1292cbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667908348517
+status: 3
+tags: []
+user_id: sarath

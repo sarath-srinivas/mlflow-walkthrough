@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/a03701ba54d944efb8585ae59434188b/artifacts
+end_time: 1667908373524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a03701ba54d944efb8585ae59434188b
+run_uuid: a03701ba54d944efb8585ae59434188b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667908371666
+status: 4
+tags: []
+user_id: sarath

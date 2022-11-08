@@ -11,8 +11,6 @@ from sklearn.linear_model import ElasticNet
 import mlflow
 import mlflow.sklearn
 
-mlflow.set_experiment("Project")
-
 
 def eval_metrics(actual, pred):
     rmse = np.sqrt(mean_squared_error(actual, pred))
